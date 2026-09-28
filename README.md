@@ -525,29 +525,6 @@ Intent:       destination_recommendation
 
 ---
 
-## 20. Viva-Voce Preparation Guide
-
-### Key Questions & Answers for Viva Examiners:
-
-#### Q1: Why did you choose NLP instead of a simple rule-based chatbot?
-> **Answer:** *"Travelers communicate their desires with vast linguistic diversity. A user might say 'I need somewhere peaceful', 'I want to escape the crowds', or 'I want to disconnect from everything'. Rule-based systems break when the exact keyword is absent. NLP enables semantic understanding, mapping diverse paraphrases to identical latent preferences."*
-
-#### Q2: How does your Entity Extraction work?
-> **Answer:** *"We use a hybrid pipeline: spaCy's pre-trained statistical NER model extracts geopolitical entities and locations (`GPE`, `LOC`), regular expressions extract numeric constraints (duration, currency, budget, group sizes), and Levenshtein string distance fuzzy matching maps misspelled destination names (e.g., 'Mumbay' to 'Mumbai') to our verified dataset."*
-
-#### Q3: Why did you choose TF-IDF + Logistic Regression for Intent Classification?
-> **Answer:** *"Logistic Regression with balanced class weights provides fast, deterministic, lightweight inference on commodity hardware with clear probabilistic confidence scores (`predict_proba`). It runs efficiently in real-time without requiring expensive GPU compute."*
-
-#### Q4: How does your Semantic Search work?
-> **Answer:** *"We use the `all-MiniLM-L6-v2` transformer from the Sentence-Transformers library to map destination descriptions and user queries into 384-dimensional dense vector spaces. We compute cosine similarity between the query vector and destination vectors to retrieve topically similar destinations, even when zero keyword overlap exists."*
-
-#### Q5: How does the system handle multi-constraint queries?
-> **Answer:** *"Our recommendation engine computes a dynamic composite relevance score. It simultaneously normalizes and weights semantic vector similarity (30%), thematic preference matches (20%), category match (15%), budget feasibility (15%), destination rating (10%), duration feasibility (5%), and season compatibility (5%)."*
-
-#### Q6: How does conversational context work across turns?
-> **Answer:** *"The `ConversationContextManager` tracks active trip parameters (destination, origin, duration, budget, companions) in session state. When a user asks 'What can I do there?', a co-reference resolution rule replaces the pronoun 'there' with the active destination from the previous turn."*
-
----
 
 ## 21. Limitations & Future Scope
 
