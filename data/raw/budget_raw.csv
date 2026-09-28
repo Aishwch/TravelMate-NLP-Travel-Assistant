@@ -1,0 +1,37 @@
+destination,accommodation_budget,accommodation_midrange,accommodation_luxury,food_cost_per_day,local_transport_cost_per_day,activity_cost_per_day,daily_budget_min,daily_budget_avg,budget_tier
+Goa,800,2200,6500,700,500,800,1800,2800,Moderate
+Jaipur,700,1800,5000,500,400,600,1500,2400,Moderate
+Lonavala,600,1600,4500,500,400,300,1300,2000,Budget-Friendly
+Matheran,600,1500,4000,450,300,250,1200,1800,Budget-Friendly
+Mumbai,1000,2800,8000,700,500,500,2000,3200,Premium
+Mahabaleshwar,700,1800,4800,550,450,350,1450,2200,Moderate
+Gokarna,500,1300,3800,400,300,200,1100,1600,Budget-Friendly
+Udaipur,800,2200,7000,600,400,600,1600,2600,Moderate
+Munnar,700,1700,5000,500,450,350,1400,2100,Moderate
+Hyderabad,700,1700,4500,550,400,350,1400,2200,Budget-Friendly
+Manali,700,1900,5500,600,500,700,1600,2500,Moderate
+Hampi,450,1200,3200,350,250,200,950,1500,Budget-Friendly
+Pondicherry,650,1600,4500,550,350,250,1350,2000,Budget-Friendly
+Leh Ladakh,1000,2600,7500,750,1000,600,2400,3500,Premium
+Rishikesh,550,1400,4200,450,300,500,1200,1800,Budget-Friendly
+Varanasi,500,1300,4000,400,300,300,1100,1700,Budget-Friendly
+Agra,700,1800,5000,500,400,500,1450,2300,Moderate
+Coorg,750,1800,5200,550,450,350,1500,2200,Moderate
+Ooty,700,1700,4800,500,450,300,1400,2100,Moderate
+Darjeeling,750,1900,5200,550,450,400,1500,2300,Moderate
+Shillong,700,1800,5000,550,500,350,1500,2200,Moderate
+Alleppey,800,2200,7500,650,450,800,1800,3000,Moderate
+Amritsar,550,1400,4000,450,300,200,1150,1800,Budget-Friendly
+Jaisalmer,700,1800,5500,550,450,650,1550,2400,Moderate
+Andaman Islands,1100,2800,8500,800,700,1000,2500,3800,Premium
+Pune,650,1600,4500,450,400,250,1300,1900,Budget-Friendly
+Alibaug,700,1700,4800,550,350,300,1400,2000,Budget-Friendly
+Wayanad,650,1600,4600,500,450,350,1400,2000,Budget-Friendly
+Kochi,700,1700,5000,550,400,350,1450,2200,Moderate
+Dharamshala,550,1400,4000,450,350,300,1200,1800,Budget-Friendly
+Nainital,650,1600,4500,500,400,350,1350,2000,Budget-Friendly
+Gangtok,750,1900,5500,600,600,450,1650,2500,Moderate
+Shimla,750,1800,5000,550,450,350,1500,2300,Moderate
+Kanyakumari,550,1400,3800,400,300,250,1150,1700,Budget-Friendly
+Mysore,600,1500,4200,450,350,300,1250,1900,Budget-Friendly
+Shirdi,450,1200,3200,300,250,150,900,1400,Budget-Friendly

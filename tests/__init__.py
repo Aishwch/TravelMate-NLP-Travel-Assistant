@@ -1,0 +1,1 @@
+"""TravelMate automated tests package."""

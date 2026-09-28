@@ -1,0 +1,56 @@
+origin,destination,mode,duration_hrs,approx_cost_inr,frequency
+Mumbai,Goa,Train (Tejas / Vande Bharat),7.5,1250,Daily
+Mumbai,Goa,Flight,1.25,3200,Frequent
+Mumbai,Goa,Overnight Sleeper Bus,13.0,950,Daily
+Mumbai,Lonavala,Express Train,2.0,120,Hourly
+Mumbai,Lonavala,Cab / Mumbai-Pune Expressway,2.2,2200,On Demand
+Mumbai,Matheran,Local Train to Neral + Toy Train,2.5,180,Regular
+Mumbai,Mahabaleshwar,MSRTC Volvo Bus,5.5,550,Daily
+Mumbai,Alibaug,Ro-Pax Ferry from Bhaucha Dhakka,1.0,380,Hourly
+Mumbai,Pune,Deccan Queen / Vande Bharat,3.0,190,Frequent
+Mumbai,Jaipur,Superfast Train,16.0,1450,Daily
+Mumbai,Jaipur,Direct Flight,1.8,4200,Daily
+Mumbai,Udaipur,Direct Flight,1.4,3800,Daily
+Mumbai,Shirdi,Vande Bharat Express,5.2,850,Daily
+Mumbai,Nashik,Panchavati Express,3.5,160,Daily
+Mumbai,Gokarna,Matsyagandha Express,11.5,550,Daily
+Mumbai,Hampi,Train to Hospet + Local Auto,14.0,620,Daily
+Mumbai,Kochi,Direct Flight,2.0,4500,Daily
+Pune,Mahabaleshwar,State Bus / Private Cab,3.0,280,Hourly
+Pune,Lonavala,Local Suburban Train,1.2,45,Hourly
+Pune,Goa,Goa Express Train,11.0,480,Daily
+Pune,Goa,Direct Flight,1.1,3100,Daily
+Pune,Shirdi,MSRTC Semi-Luxury Bus,4.5,350,Regular
+Pune,Hampi,Overnight Sleeper Bus,10.5,800,Daily
+Pune,Kolhapur,Mahalaxmi Express,4.5,180,Daily
+Pune,Aurangabad,Shivshahi AC Bus,5.0,420,Frequent
+Delhi,Agra,Gatimaan / Vande Bharat Express,1.7,450,Frequent
+Delhi,Agra,Yamuna Expressway Cab,3.0,2500,On Demand
+Delhi,Jaipur,Vande Bharat Express,3.8,890,Daily
+Delhi,Jaipur,RSRTC Volvo AC Bus,5.5,650,Frequent
+Delhi,Rishikesh,Vande Bharat to Dehradun + Taxi,4.5,920,Daily
+Delhi,Manali,HRTC Himsuta Volvo Bus,12.0,1350,Daily
+Delhi,Shimla,Kalka Shatabdi + Toy Train,7.5,780,Daily
+Delhi,Amritsar,Swarna Shatabdi Express,6.0,950,Daily
+Delhi,Varanasi,Vande Bharat Express,8.0,1750,Daily
+Delhi,Nainital,Kathgodam Shatabdi + Taxi,6.5,750,Daily
+Delhi,Udaipur,Chetak Express Train,11.5,680,Daily
+Delhi,Leh Ladakh,Direct Flight,1.3,4800,Daily
+Delhi,Dharamshala,Overnight Volvo Bus,10.5,1100,Daily
+Bangalore,Mysore,Vande Bharat Express,1.7,450,Frequent
+Bangalore,Coorg,KSRTC Airavat AC Bus,5.5,620,Frequent
+Bangalore,Ooty,KSRTC Volvo Bus via Mysore,7.0,750,Daily
+Bangalore,Hampi,Hampi Express Train,8.5,420,Daily
+Bangalore,Gokarna,Overnight KSRTC Sleeper Bus,9.5,850,Daily
+Bangalore,Pondicherry,KSRTC AC Club Class Bus,6.5,680,Regular
+Bangalore,Wayanad,Direct KSRTC Bus,6.0,580,Daily
+Bangalore,Goa,Direct Flight,1.2,2800,Daily
+Bangalore,Munnar,Overnight Bus,9.5,920,Daily
+Hyderabad,Hampi,Overnight Bus / Cab,8.0,850,Daily
+Hyderabad,Goa,Direct Flight,1.3,3400,Daily
+Hyderabad,Varanasi,Direct Flight,2.0,4200,Daily
+Hyderabad,Pondicherry,Express Train to Villupuram,14.0,680,Daily
+Kolkata,Darjeeling,Vande Bharat to NJP + Shared Taxi,8.5,1450,Daily
+Kolkata,Puri,Vande Bharat Express,6.0,1150,Daily
+Kolkata,Gangtok,Train to NJP + Cab via Teesta,10.0,1650,Daily
+Kolkata,Shillong,Flight to Guwahati + Shared Taxi,3.5,3600,Daily
