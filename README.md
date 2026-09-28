@@ -31,8 +31,7 @@
 - [17. Verification & Automated Test Suite](#17-verification--automated-test-suite)
 - [18. Model Evaluation & Results](#18-model-evaluation--results)
 - [19. Sample Queries & Acceptance Test](#19-sample-queries--acceptance-test)
-- [20. Viva-Voce Preparation Guide](#20-viva-voce-preparation-guide)
-- [21. Limitations & Future Scope](#21-limitations--future-scope)
+- [20. Limitations & Future Scope](#21-limitations--future-scope)
 
 ---
 
